@@ -3,3 +3,9 @@ description: Cross Government Forms community
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
+plugins:
+  - jekyll-relative-links
+  - jekyll-target-blank
+relative_links:
+  enabled:     true
+  collections: false

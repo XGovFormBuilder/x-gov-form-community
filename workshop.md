@@ -34,10 +34,10 @@ Theme: Form design
 
 **Lightning talks:**
 
-[Caroline Jarrett - Let's have a lovely chat about forms](https://www.effortmark.co.uk/a-chat-about-forms-and-form-builders-xgov/)
+[Caroline Jarrett - Let's have a lovely chat about forms](https://www.effortmark.co.uk/a-chat-about-forms-and-form-builders-xgov/){:target="_blank" rel="noopener noreferrer"}
 
-[Phil Cogger - Showing content design thinking quicker using MOJ Online](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20201002/PC%20-%20Showing%20content%20design%20thinking%20quicker%20using%20MOJ%20Online.pdf)
+[Phil Cogger - Showing content design thinking quicker using MOJ Online](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/moj.pdf){:target="_blank" rel="noopener noreferrer"}
 
-[Chris Fryer - Forms in a formless place](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20201002/CQC%20-%20forms%20in%20a%20formless%20place.pdf)
+[Chris Fryer - Forms in a formless place](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/cqc.pdf){:target="_blank" rel="noopener noreferrer"}
 
-[Jorden Stewart - The Author Tool: Covid-19 and rapid response](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20201002/OSN%20Author%20Tool.pdf)
+[Jorden Stewart - The Author Tool: Covid-19 and rapid response](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/ONS.pdf){:target="_blank" rel="noopener noreferrer"}
