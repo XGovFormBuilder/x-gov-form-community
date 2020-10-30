@@ -16,7 +16,7 @@ nav_order: 2
 - NHS Digital service manual content style guide, [How to write good questions for forms](https://service-manual.nhs.uk/content/how-to-write-good-questions-for-forms).  
 - Australian government,  [Style manual for forms](https://www.stylemanual.gov.au/format-writing-and-structure/content-formats/forms).
 - Juke Wroblewski, [Web Application Form Design](https://www.lukew.com/ff/entry.asp?1502), Jan 2005.
-- Alex Christensen blog posts on [Medium.com](https://medium.com/@alex.christensen)
+- Alex Christensen blog posts on [Medium.com](https://alx-christensen.medium.com/)
 - Caroline Jarrett, [Better forms and surveys](https://www.effortmark.co.uk/category/forms/)
 
 ## Blog posts about forms
