@@ -9,7 +9,7 @@ nav_order: 2
 ## Blog posts about the community
 
 - GDS Consulting Technical Architects and Home Office Shared Tech Products Team, [Join the cross-government form building community](https://technology.blog.gov.uk/2020/08/12/join-the-cross-government-form-building-community/), Aug 2020.
-
+- Venus Bailey & Khidr Suleman, [Highlights from our “Form Design” cross-government workshop](https://technology.blog.gov.uk/2020/10/28/highlights-from-our-form-design-cross-government-workshop/), Oct 2020.
 
 ## Useful form resources
 - GOV.UK Service manual, Design community, [Structuring forms](https://www.gov.uk/service-manual/design/form-structure)
