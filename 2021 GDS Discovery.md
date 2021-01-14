@@ -29,6 +29,7 @@ The team only has one full time member:
 Harry is supported part-time by:
 
 - [Nick Breeze](https://www.linkedin.com/in/nick-breeze-87522530/), Lead User Researcher
+- Venus Bailey, Lead Enterprise Architect
 - Ben Donovan, Economist
 
 GDS hopes to make the team more multi-disciplinary soon, to help make more informed decisions. In addition, the team will be doing its best to adopt a more multi-disciplinary view by learning from members of this cross-government form community, as well as different communities of practice.
