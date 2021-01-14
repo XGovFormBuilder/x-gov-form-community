@@ -1,6 +1,7 @@
 ---
 title: 2021 GDS Discovery
-nav_order: 3
+last_modified_date: 2021-01-14
+nav_order: 4
 has_children: true
 has_toc: false
 ---
@@ -23,12 +24,12 @@ GDS is currently looking the extent to which those problems remain unsolved. A l
 
 The team only has one full time member:
 
-[Harry Vos](https://twitter.com/vosageroll), Senior Product Manager
+- [Harry Vos](https://twitter.com/vosageroll), Senior Product Manager
 
 Harry is supported part-time by:
 
-[Nick Breeze](https://www.linkedin.com/in/nick-breeze-87522530/), Lead User Researcher
-Ben Donovan, Economist
+- [Nick Breeze](https://www.linkedin.com/in/nick-breeze-87522530/), Lead User Researcher
+- Ben Donovan, Economist
 
 GDS hopes to make the team more multi-disciplinary soon, to help make more informed decisions. In addition, the team will be doing its best to adopt a more multi-disciplinary view by learning from members of this cross-government form community, as well as different communities of practice.
 
@@ -36,4 +37,4 @@ GDS hopes to make the team more multi-disciplinary soon, to help make more infor
 
 The team will be publishing short updates here on what they learn. They hope working in the open will help them get feedback from the community.
 
-[Sprint 0: setting discovery objectives and ways of working](/2021-discovery/)
+[Sprint 0: setting discovery objectives and ways of working](/2021-discovery/sprint-0)
