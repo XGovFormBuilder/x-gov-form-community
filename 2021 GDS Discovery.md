@@ -37,4 +37,4 @@ GDS hopes to make the team more multi-disciplinary soon, to help make more infor
 
 The team will be publishing short updates here on what they learn. They hope working in the open will help them get feedback from the community.
 
-[Sprint 0: setting discovery objectives and ways of working](/2021-discovery/sprint-0/)
+[Sprint 0: setting discovery objectives and ways of working](/2021-discovery/sprint-0.html)
