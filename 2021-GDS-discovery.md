@@ -18,7 +18,7 @@ In October 2017, they were ready to launch a Private Beta to test if GOV.UK Subm
 
 In the three years from then until August 2020, government departments invested in solving these problems themselves, so GDS wanted to facilitate conversations about the emerging duplication of effort, and [launched this cross-government form building community](https://technology.blog.gov.uk/2020/08/12/join-the-cross-government-form-building-community/). 🚀
 
-GDS is currently looking the extent to which those problems remain unsolved. A lot has happened in three and a half years. This discovery will help GDS decide whether there is value in further investment. 🤷🏻‍♂️
+GDS is currently looking at the extent to which those problems remain unsolved. A lot has happened in three and a half years. This discovery will help GDS decide whether there is value in further investment. 🤷🏻‍♂️
 
 ## Who is on the team
 
