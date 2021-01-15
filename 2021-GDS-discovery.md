@@ -20,6 +20,8 @@ In the three years from then until August 2020, government departments invested 
 
 GDS is currently looking at the extent to which those problems remain unsolved. A lot has happened in three and a half years. This discovery will help GDS decide whether there is value in further investment. 🤷🏻‍♂️
 
+We won't be working on this beyond March 2021 unless we find unmet user needs and are successful in getting funding.
+
 ## Who is on the team
 
 The team only has one full time member:
@@ -36,6 +38,6 @@ GDS hopes to make the team more multi-disciplinary soon, to help make more infor
 
 ## Updates from the team
 
-The team will be publishing short updates here on what they learn. They hope working in the open will help them get feedback from the community.
+The team is publishing short updates here on what they learn. They hope working in the open will help them get feedback from the community.
 
 [Sprint 0: setting discovery objectives and ways of working](/x-gov-form-community/2021-discovery/sprint-0)
