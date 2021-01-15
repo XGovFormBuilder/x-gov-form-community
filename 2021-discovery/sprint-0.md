@@ -57,7 +57,7 @@ We need to learn more about how form builders are currently being used in the pu
 
 - spoke to people to learn more about the problem space
 - formed a very rough idea of what we hope to learn from this discovery
-- prioritised interviewing people in local government first (from the cross-government forms community, we know a fair bit about central government already)
+- prioritised interviewing people in local government first (we know a fair bit about central government already from the cross-government forms community)
 - started writing down some ideas for a discussion guide for in-depth interviews
 - tested some tools to make scheduling interviews easy
 - set up things to help our team to collaborate, and share updates here
