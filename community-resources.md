@@ -31,6 +31,7 @@ nav_order: 2
 - Caroline Jarrett, [My new favourite form. Really](https://gds.blog.gov.uk/2015/09/22/my-new-favourite-form-really/), Sep 2015.
 - Henry Charge, [Doing the hard work to make it simple](https://designnotes.blog.gov.uk/2014/08/07/doing-the-hard-work-to-make-it-simple/), Aug 2014.
 
+
 ## Other blogs
 - David Durant, [Where GDS went wrong and what could be done about it](https://medium.com/@cholten99_61869/where-gds-went-wrong-and-what-could-be-done-about-it-7ca6383c387c), July 2020.
 - Matt Jukes, [Public Service Digital in the Time of COVID-19](https://notbinary.co.uk/public-service-digital-in-the-time-of-covid-19/), Apr 2020.

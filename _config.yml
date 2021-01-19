@@ -9,3 +9,4 @@ plugins:
 relative_links:
   enabled:     true
   collections: false
+footer_content: "You can contribute to the content by making a Pull Request at <a href=\"https://github.com/XGovFormBuilder/x-gov-form-community\">Github.</a>"
