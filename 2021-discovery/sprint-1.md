@@ -34,6 +34,8 @@ We learnt the majority of the forms on GOV.UK:
 - aren't downloaded enough to justify multi-disciplinary teams using form builders to transform them
 - could be replaced by an OpenDocument file to make them more accessible, but in many cases this would make them harder to use
 
+These forms account for around 22% of total form downloads, not including digital services.
+
 We currently estimate that it isn't cost effective to have a multi-disciplinary team use a form builder for services with fewer than around 3,750 to 1,750 transactions per year, depending on their complexity. Yet these smaller services account for the majority of forms on GOV.UK.
 
 While faster than those not using form builders, current teams using form builders are still quite slow. At the current rate, it would take government around 70 years to digitally transform 5000 forms on GOV.UK. This would just address the backlog. This doesn't even factor in the capacity needed to produce forms for new or changing services.
