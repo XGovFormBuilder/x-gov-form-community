@@ -1,5 +1,5 @@
 ---
-title: Sprint 0
+title: Sprint 0: setting up for a useful discovery
 last_modified_date: 2021-01-15
 nav_order: 1
 parent: 2021 GDS Discovery
