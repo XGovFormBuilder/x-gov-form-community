@@ -1,6 +1,6 @@
 ---
 title: 2021 GDS Discovery
-last_modified_date: 2021-01-14
+last_modified_date: 2021-02-12
 nav_order: 5
 has_toc: false
 ---
@@ -41,3 +41,4 @@ The team is publishing short updates here on what they learn. They hope working 
 
 [Sprint 0: setting up for a useful discovery](/x-gov-form-community/2021-discovery/sprint-0)
 [Sprint 1: problems faced by local government and limitations of teams using form builders](/x-gov-form-community/2021-discovery/sprint-1)
+[Sprint 2: who are the users?](/x-gov-form-community/2021-discovery/sprint-2)
