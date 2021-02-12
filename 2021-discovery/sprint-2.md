@@ -26,7 +26,7 @@ In more digitally-capable organisations, we also saw these roles involved:
 - developers (in-house)
 - user researchers
 
-The smaller the organisation, the more likely it is that one person or team is responsible for the whole service — dealing with applications, helping users complete forms, processing applications, enforcement of regulations, updating web content, and changing forms. In larger organisations, each of these responsibilities is more likely to be split across separate specialised teams.
+The smaller the organisation, the more likely it is that one person or team is responsible for the whole service — dealing with applications, helping users complete forms, processing applications, enforcement of regulations, updating web content, and changing forms. In larger organisations, each responsibility is more likely to be split across separate specialised teams.
 
 Depending on the mix of roles, technical skills and technology suppliers, consideration of the accessibility and usability of forms was varied. It's important to recognise this because each of these groups of people have different needs. We have to know whose problems we are trying to solve.
 
