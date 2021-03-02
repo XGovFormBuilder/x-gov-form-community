@@ -56,4 +56,4 @@ But more on how we’re delivering against this first use case and what we plan 
 ## Your views
 Do you agree with our views? Do you like what we’re doing so far or are there things that we’re missing? Do you have any suggestions or ideas about the frequency, topics that you’re interested in or any other feedback about these updates? 
 
-I’d love to hear from you. Please ping me on the cross-government Slack space or email me at [irina.pencheva@digital.justice.gov.uk](mailto:irina.pencheva@digital.justice.gov.uk). 
+I’d love to hear from you. Please ping me on the cross-government Slack space or get in touch with me on Twitter (@euro_tweety)
