@@ -2,8 +2,6 @@
 title: Sprint 2: who are the users?
 last_modified_date: 2021-02-12
 parent: 2021 GDS Discovery
-nav_order: 3
-nav_exclude: true
 ---
 
 # Sprint 2: who are the users?
