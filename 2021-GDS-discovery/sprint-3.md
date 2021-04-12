@@ -1,7 +1,7 @@
 ---
 title: Sprint 3 which problems should we solve?
 last_modified_date: 2021-02-26
-parent: 2021 GDS Discovery
+
 ---
 
 # Sprint 3: which problems should we solve?
