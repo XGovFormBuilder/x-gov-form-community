@@ -1,10 +1,9 @@
 ---
 title: 2021 GDS Discovery
 last_modified_date: 2021-02-12
-nav_order: 5
-has_toc: false
+parent: Community news
+nav_order: 1
 ---
-
 # Discovery to learn about collecting information from users
 
 The Government Digital Service (GDS) is running a discovery to learn more about collecting information from users.
