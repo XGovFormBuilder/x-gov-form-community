@@ -1,7 +1,7 @@
 ---
 title: Sprint 0 setting up for a useful discovery
 last_modified_date: 2021-01-15
-
+parent: 2021 GDS Discovery
 ---
 
 # Sprint 0: setting up for a useful discovery
