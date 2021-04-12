@@ -3,7 +3,7 @@ title: 2021 GDS Discovery
 last_modified_date: 2021-02-12
 parent: Community news
 has_children: true
-nav_order: 5
+nav_order: 1
 ---
 # Discovery to learn about collecting information from users
 
