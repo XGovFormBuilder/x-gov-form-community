@@ -1,6 +1,6 @@
 title: x-gov-forms
 description: Cross Government Form Building Community
-remote_theme: pmarsceill/just-the-doc@v0.3.3
+remote_theme: pmarsceill/just-the-doc
 color_scheme: "light"
 search_enabled: true
 plugins:
