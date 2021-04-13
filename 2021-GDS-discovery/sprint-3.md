@@ -4,8 +4,8 @@ last_modified_date: 2021-02-26
 parent: 2021 GDS Discovery
 layout: redirected
 sitemap: false
-permalink: /x-gov-form-community/2021-discovery/sprint-3/
-redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-3/
+permalink: /x-gov-form-community/2021-discovery/sprint-3
+redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-3
 ---
 
 # Sprint 3: which problems should we solve?

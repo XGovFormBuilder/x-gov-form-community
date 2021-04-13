@@ -5,7 +5,7 @@ parent: Community news
 nav_order: 1
 layout: redirected
 sitemap: false
-permalink: /x-gov-form-community/2021-GDS-discovery.html/
+permalink: /x-gov-form-community/2021-GDS-discovery.html
 redirect_to:  /x-gov-form-community/2021-GDS-discovery/
 ---
 # Discovery to learn about collecting information from users
