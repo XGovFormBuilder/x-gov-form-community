@@ -4,8 +4,8 @@ last_modified_date: 2021-02-12
 parent: 2021 GDS Discovery
 layout: redirected
 sitemap: false
-permalink: /x-gov-form-community/2021-discovery/sprint-2
-redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-2
+permalink: /x-gov-form-community/2021-discovery/sprint-2/
+redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-2/
 ---
 
 # Sprint 2: who are the users?
