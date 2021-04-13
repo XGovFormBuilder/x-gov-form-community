@@ -2,10 +2,6 @@
 title: Sprint 1 problems faced by local government and limitations of teams using form builders
 last_modified_date: 2021-01-29
 parent: 2021 GDS Discovery
-layout: redirected
-sitemap: false
-permalink: /x-gov-form-community/2021-discovery/sprint-1
-redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-1
 ---
 
 # Sprint 1: problems faced by local government and limitations of teams using form builders
