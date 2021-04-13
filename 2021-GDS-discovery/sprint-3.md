@@ -77,6 +77,6 @@ I'm in the process of trying to clarify how desirable the GDS accessibility and 
 - looked for a frontend developer to help us evaluate the accessibility of existing products
 - sketched what our first experiment might be
 
-[<- Previous update](/x-gov-form-community/2021-GDS-discovery/sprint-2)
+[<- Previous update](/x-gov-form-community/2021-discovery/sprint-2)
 
-[Next update ->](/x-gov-form-community/2021-GDS-discovery/sprint-4)
+[Next update ->](/x-gov-form-community/2021-discovery/sprint-4)
