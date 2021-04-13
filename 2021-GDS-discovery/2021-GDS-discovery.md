@@ -6,7 +6,7 @@ nav_order: 1
 layout: redirected
 sitemap: false
 permalink: /x-gov-form-community/2021-GDS-discovery.html/
-redirect_to:  /x-gov-form-community/2021-GDS-discovery/
+redirect_to:  /x-gov-form-community/2021-GDS-discovery/2021-GDS-discovery.html/
 ---
 # Discovery to learn about collecting information from users
 

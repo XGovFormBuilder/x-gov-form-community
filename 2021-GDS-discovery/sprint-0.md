@@ -4,8 +4,8 @@ last_modified_date: 2021-01-15
 parent: 2021 GDS Discovery
 layout: redirected
 sitemap: false
-permalink: /x-gov-form-community/2021-discovery/sprint-0/
-redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-0/
+permalink: /x-gov-form-community/2021-discovery/sprint-0.html/
+redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-0.html/
 ---
 
 # Sprint 0: setting up for a useful discovery
