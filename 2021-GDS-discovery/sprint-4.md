@@ -23,4 +23,4 @@ This is a nice short update. My talk from #ServicesWeek covers most of what we'v
 - hopefully found a frontend developer to help us evaluate the accessibility of existing products
 - along with other community leads, started planning the next x-gov forms community workshop which is happening on Friday 30 April 2021
 
-[<- Previous update](/x-gov-form-community/2021-GDS-discovery/sprint-3)
+[<- Previous update](/x-gov-form-community/2021-discovery/sprint-3)
