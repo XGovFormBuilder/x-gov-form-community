@@ -2,35 +2,43 @@
 title: Workshops
 nav_order: 3
 ---
-## Workshop 3:
+## Workshop 3
 Date: 30/04/2021
 
-**Agenda (To be finalised)**
+### Agenda (To be finalised)**
 
 10:00am Introduction and community standup
 Introduction session by Venus Bailey from Cabinet Office
 
-10:20am Lightning talk: DWP CASA form builder
+**10:20am Lightning talk: DWP CASA form builder**
+
 Lightning talk by James Gauld, Lead Software Engineer, on the DWP CASA form builder.
 
-10:40am Tech Stream: Form building - how do we approach it in a consistent way?
+**10:40am Tech Stream: Form building - how do we approach it in a consistent way?**
+
 Talk and workshop session by Irina Pencheva from Ministry of Justice Forms
-Are we all talking about the same things and sharing best practices or reusable components? An attempt to come up with common user needs, form concepts and technology terms for form building products. This session will present what we’ve done so far and is an opportunity for the community to give feedback and get more involved.
 
-11:10am  Design stream: How ‘well-designed’ do forms really need to be?
+*Are we all talking about the same things and sharing best practices or reusable components? An attempt to come up with common user needs, form concepts and technology terms for form building products. This session will present what we’ve done so far and is an opportunity for the community to give feedback and get more involved.*
+
+**11:10am  Design stream: How ‘well-designed’ do forms really need to be?**
+
 Talk by Cathy Dutton from the Department for the Environment, Food and Rural Affairs
-What is the minimum amount of design a form needs?
 
-11:30am Value proposition stream: What problems are we actually solving?
+*What is the minimum amount of design a form needs?*
+
+**11:30am Value proposition stream: What problems are we actually solving?**
+
 Talk and workshop session by Harry Vos from the Government Digital Service
-Yes there’s now lots of forms builder products in government. Are we trying to solve the same problems, or are we trying to solve different problems?
 
-12:00pm Community stream: Retrospective
-Retro session by David Durant from Hackney County Council
+*Yes there’s now lots of forms builder products in government. Are we trying to solve the same problems, or are we trying to solve different problems?*
+
+**12:00pm Community stream: Retrospective**
+
+*Retro session by David Durant from Hackney County Council*
 
 
-
-## Workshop 2:
+----
+## Workshop 2
 Date: 2/10/2020
 
 Theme: Form design
@@ -45,8 +53,8 @@ Theme: Form design
 
 [Jorden Stewart - The Author Tool: Covid-19 and rapid response](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/ONS.pdf){:target="_blank" rel="noopener noreferrer"}
 
-
-## Workshop 1:
+----
+## Workshop 1
 Date: 26/6/2020
 
 Theme: The many ways we build and use forms
