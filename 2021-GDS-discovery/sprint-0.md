@@ -2,6 +2,10 @@
 title: Sprint 0 setting up for a useful discovery
 last_modified_date: 2021-01-15
 parent: 2021 GDS Discovery
+layout: redirected
+sitemap: false
+permalink: /x-gov-form-community/2021-discovery/sprint-0
+redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-0
 ---
 
 # Sprint 0: setting up for a useful discovery

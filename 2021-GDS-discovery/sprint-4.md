@@ -2,6 +2,10 @@
 title: Sprint 4 why most government forms are still PDFs
 last_modified_date: 2021-03-12
 parent: 2021 GDS Discovery
+layout: redirected
+sitemap: false
+permalink: /x-gov-form-community/2021-discovery/sprint-4
+redirect_to:  /x-gov-form-community/2021-GDS-discovery/sprint-4
 ---
 
 # Sprint 4: why most government forms are still PDFs

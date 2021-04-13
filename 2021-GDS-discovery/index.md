@@ -3,6 +3,10 @@ title: 2021 GDS Discovery
 last_modified_date: 2021-02-12
 parent: Community news
 nav_order: 1
+layout: redirected
+sitemap: false
+permalink: /x-gov-form-community/2021-GDS-discovery.html
+redirect_to:  /x-gov-form-community/2021-GDS-discovery/
 ---
 # Discovery to learn about collecting information from users
 
