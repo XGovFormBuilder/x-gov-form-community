@@ -12,9 +12,13 @@ In this update our technical architect Matt Tei and I will write about the launc
 
 ## Releasing our MVP
 As you might recall from my [previous post](https://xgovformbuilder.github.io/x-gov-form-community/MOJ%20Forms%20Updates/moj-forms-update-1.html), over the last 6 months we’ve been busy redesigning and rebuilding the MOJ Forms product to make it self-service for digital teams. 
+
 Through the new MOJ Forms web application users will be able to log in using an MOJ account to create, edit, preview and publish their forms all in one place without the need to code. To allow this, we’ve built a new Editor application for creating and editing a form, a metadata API to hold the form data structures, a Runner that renders the forms, and we’ve also updated our Publisher so forms get published directly to the form.service.justice.gov.uk domain using the MOJ CloudPlatform.
+
 As it’s an MVP that we wanted to get out to real users as early as possible, we’ve had to be quite ruthless in terms of features we prioritise and release now. We focused on allowing the user to complete an end-to-end journey that provides the most common / useful functionality of a form. Throughout the next few months we will keep adding new features such as branching and complex validations, and expand our private beta to more participants so we can test further. We’ve published our [high-level roadmap](https://trello.com/b/bkbyX3fp/moj-forms-public-roadmap) where you can find out more about what we’ve done and what we're considering for the future. 
+
 Now that we’ve released the first iteration of the new tool, we're starting to work with services as our private beta partners. Our first partner is from the Office of the Public Guardian (OPG) who have been using our legacy product and can’t wait to get the benefit of the new self-service tool. We are also exploring collaborations with service teams from HM Courts and Tribunals Service (HMCTS) and HM Prison and Probation Service (HMPPS). 
+
 In private beta, we’ll do a longitudinal study to assess our hypothesis that form editors (the primary user we’re focusing on) will be able to use our tool in a self-service way and will find the product valuable. We’ll also do more accessibility and usability testing to ensure that our evolving designs and increasingly more complex features meet the needs of all of our potential users. 
 
 ## What about non-digital teams?
