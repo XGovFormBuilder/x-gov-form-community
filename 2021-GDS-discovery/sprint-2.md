@@ -60,6 +60,6 @@ If this were the case, this closer collaboration between policy and delivery mig
 - learnt about the ambitions of the x-gov form builder team
 - started planning a show and tell where suppliers can pitch their products to the x-gov forms community ([DM me](https://twitter.com/vosageroll) if you'd be interested)
 
-[<- Previous update](/x-gov-form-community/2021-discovery/sprint-1)
+[<- Previous update](/x-gov-form-community/2021-GDS-discovery/sprint-1)
 
-[Next update ->](/x-gov-form-community/2021-discovery/sprint-3)
+[Next update ->](/x-gov-form-community/2021-GDS-discovery/sprint-3)

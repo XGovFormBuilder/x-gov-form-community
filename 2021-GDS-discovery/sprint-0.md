@@ -62,4 +62,4 @@ We need to learn more about how form builders are currently being used in the pu
 - set up things to help our team to collaborate, and share updates here
 - planned for sprint 1
 
-[Next update ->](/x-gov-form-community/2021-discovery/sprint-1)
+[Next update ->](/x-gov-form-community/2021-GDS-discovery/sprint-1)

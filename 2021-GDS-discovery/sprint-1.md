@@ -83,6 +83,6 @@ Going from high to low priority:
 - modelled the break-even points for investing in services of various transaction volumes
 - spoke to the GOV.UK Design System team about the roadmap for the [GOV.UK Design System](https://design-system.service.gov.uk/), [GOV.UK Frontend](https://frontend.design-system.service.gov.uk/#gov-uk-frontend) and the [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/)
 
-[<- Previous update](/x-gov-form-community/2021-discovery/sprint-0)
+[<- Previous update](/x-gov-form-community/2021-GDS-discovery/sprint-0)
 
-[Next update ->](/x-gov-form-community/2021-discovery/sprint-2)
+[Next update ->](/x-gov-form-community/2021-GDS-discovery/sprint-2)
