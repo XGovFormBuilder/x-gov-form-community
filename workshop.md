@@ -52,6 +52,8 @@ Theme: Form design
 
 [Jorden Stewart - The Author Tool: Covid-19 and rapid response](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/ONS.pdf){:target="_blank" rel="noopener noreferrer"}
 
+[Lean coffee discussion session](https://easyretro.io/publicboard/iHWefZJujXPkgLPVbXdgrUmpuBg2/e6dc7140-bf66-44e8-a0f0-05547fb9ffcd)
+
 ----
 ## Workshop 1
 Date: 26/6/2020
