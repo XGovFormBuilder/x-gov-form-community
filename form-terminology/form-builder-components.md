@@ -30,17 +30,6 @@ Using a ready-made form builder allows service teams to:
 - reduce the complexity of making forms
 - help teams to focus on the most important parts of their service like content design
 
-### Common features of form builders
-
-There are a number of form builders available and they have common features and functionality including:
-
-- a user interface to help design, edit and visualise a form
-- form components (for example, single questions, multiple questions)
-- form templates
-- design and layout tool
-- form logic
-- integration to backend systems (for example, case management or data stores, GOV.UK Notify, Address finder)
-
 ### Things to consider when developing or buying a form builder
 
 If you are considering developing or buying a form building your should aim to make sure it:
@@ -62,7 +51,8 @@ Form builders should allow teams to address the following user needs with specif
 
 1. **User need:** Create new forms and services as well as make changes to them
 
-   **Component:** An Editor application allows users to create and edit a form, for example by adding or deleting pages or questions. A web-based interface provides the best user experience and then passes the form data to a different component to handle...
+   **Component:** An Editor user interface application allows users to create and edit a form, for example by adding or deleting pages or using pre-determined page templates and form components (like single or multiple questions). This application also helps to visualise the form and form logic,  A web-based interface provides the best user experience and then passes the form data to a different component to handle. 
+
 
 2. **User need:** Preview, share and test forms
 
@@ -70,7 +60,7 @@ Form builders should allow teams to address the following user needs with specif
 
 3. **User need:** Manage the forms they own
 
-   **Component:** Storage of the form metadata and controlled by the Metadata API
+   **Component:** Storage of the form metadata and controlled by the Metadata API. 
 
 4. **User need:** Publish forms in test and production environments
 
