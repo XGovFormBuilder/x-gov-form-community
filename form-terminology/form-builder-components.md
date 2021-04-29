@@ -68,7 +68,7 @@ Form builders should allow teams to address the following user needs with specif
 
 5. **User need:** Process information in a secure way to fulfil end user service requests
 
-   **Component:** A Submitter application can process data submitted when a form is completed. This data will need to conform with the information asset classification (with any handling caveats) and any GDPR and DPIA considerations.
+   **Component:** A Submitter application can process data submitted when a form is completed. This application can also integrate with other backend systems - such as case management or by processing the submission via email (e.g through Notify or another mailing service). This data will need to conform with the information asset classification (with any handling caveats) and any GDPR and DPIA considerations.
 
 
 ### Case studies
