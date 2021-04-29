@@ -30,21 +30,6 @@ Using a ready-made form builder allows service teams to:
 - reduce the complexity of making forms
 - help teams to focus on the most important parts of their service like content design
 
-### Things to consider when developing or buying a form builder
-
-If you are considering developing or buying a form building your should aim to make sure it:
-
-- meets the needs of user (for example, content designers or developers)
-- complies with any design requirement (for example, GOV.UK Design System, multi-language support)
-- uses an open standard for form definition and ownership
-- can handle your form logic needs (for example, branching, looping, skipping, one to many relations)
-- integrates with your backend systems easily
-- stores data in a secured way
-- satisfies yours data access and privacy requirements
-- has at least testing and production environments
-- avoids locking your in to one vendor
-- is evaluated so you know the total cost of ownership (for example, ongoing maintenance, specialist consultancy, any development costs)
-
 ### Addressing user needs with form builder components
 
 Form builders should allow teams to address the following user needs with specific components:
