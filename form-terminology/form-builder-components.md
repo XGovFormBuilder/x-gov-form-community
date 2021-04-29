@@ -19,9 +19,7 @@ A form builder is a hosted product that allows teams to create a custom form or 
 
 The x-gov form building community does not recommend any one particular form building tool. However, organisations can take steps to standardise components so there is consistency across form builders and forms.
 
-![Prospective forms architecture](https://live.staticflickr.com/4452/37357741060_f1759d3539_b.jpg)
-"Prospective forms architecture" by Paul Downey
-https://www.flickr.com/photos/psd/37357741060/
+![Form Builder Components](./form-builder-components.svg)
 
 ### Advantages of form builders
 Using a ready-made form builder allows service teams to:
