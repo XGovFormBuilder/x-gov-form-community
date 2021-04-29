@@ -19,9 +19,7 @@ A form builder is a hosted product that allows teams to create a custom form or 
 
 The x-gov form building community does not recommend any one particular form building tool. However, organisations can take steps to standardise components so there is consistency across form builders and forms.
 
-![Prospective forms architecture](https://live.staticflickr.com/4452/37357741060_f1759d3539_b.jpg)
-"Prospective forms architecture" by Paul Downey
-https://www.flickr.com/photos/psd/37357741060/
+![Form Builder Components](./form-builder-components.svg)
 
 ### Advantages of form builders
 Using a ready-made form builder allows service teams to:
@@ -32,17 +30,6 @@ Using a ready-made form builder allows service teams to:
 - reduce the complexity of making forms
 - help teams to focus on the most important parts of their service like content design
 
-### Common features of form builders
-
-There are a number of form builders available and they have common features and functionality including:
-
-- a user interface to help design, edit and visualise a form
-- form components (for example, single questions, multiple questions)
-- form templates
-- design and layout tool
-- form logic
-- integration to backend systems (for example, case management or data stores, GOV.UK Notify, Address finder)
-
 
 ### Addressing user needs with form builder components
 
@@ -50,7 +37,8 @@ Form builders should allow teams to address the following user needs with specif
 
 1. **User need:** Create new forms and services as well as make changes to them
 
-   **Component:** An Editor application allows users to create and edit a form, for example by adding or deleting pages or questions. A web-based interface provides the best user experience and then passes the form data to a different component to handle...
+   **Component:** An Editor user interface application allows users to create and edit a form, for example by adding or deleting pages or using pre-determined page templates and form components (like single or multiple questions). This application also helps to visualise the form and form logic,  A web-based interface provides the best user experience and then passes the form data to a different component to handle.
+
 
 2. **User need:** Preview, share and test forms
 
@@ -58,7 +46,7 @@ Form builders should allow teams to address the following user needs with specif
 
 3. **User need:** Manage the forms they own
 
-   **Component:** Storage of the form metadata and controlled by the Metadata API
+   **Component:** Storage of the form metadata and controlled by the Metadata API.
 
 4. **User need:** Publish forms in test and production environments
 
@@ -66,7 +54,7 @@ Form builders should allow teams to address the following user needs with specif
 
 5. **User need:** Process information in a secure way to fulfil end user service requests
 
-   **Component:** A Submitter application can process data submitted when a form is completed. This data will need to conform with the information asset classification (with any handling caveats) and any GDPR and DPIA considerations.
+   **Component:** A Submitter application can process data submitted when a form is completed. This application can also integrate with other backend systems - such as case management or by processing the submission via email (e.g through Notify or another mailing service). This data will need to conform with the information asset classification (with any handling caveats) and any GDPR and DPIA considerations.
 
 
 ### Case studies
