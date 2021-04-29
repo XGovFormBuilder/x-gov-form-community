@@ -1,20 +1,21 @@
 ---
 title: Overview of form builders' components
-nav_order: 1
+last_modified_date: 2021-04-29
+parent: form-terminology
 ---
-## Form Builder Components
 
-### About This Page
+### About this page
+This page aims to capture  common technical components and best practices for form building tools.
 
-This page aims to capture some common technical components and best practices for form building tools.
 It is structured around the needs of the teams creating and/or maintaining forms.
-It includes links to the MOJ Forms and Home Office / FCDO XGovFormBuilder repositories as example implementations for some of these concepts.
+
+At the bottom of the page, it includes links to the MOJ Forms and Home Office / FCDO XGovFormBuilder repositories as example implementations for some of these concepts.
 
 This page should be reviewed and iterated on an ongoing basis with inputs from the cross-government form building community.
 
 ### Form Builders
 
-A form builder is a hosted product that allows teams to create a custom form or a service with some pre-existing toolings.
+A form builder is a hosted product that allows teams to create a custom form or a service with some pre-existing tools.
 
 The x-gov form building community does not recommend any one particular form building tool. However, organisations can take steps to standardise components so there is consistency across form builders and forms.
 
@@ -47,7 +48,7 @@ There are a number of form builders available and they have common features and 
 If you are considering developing or buying a form building your should aim to make sure it:
 
 - meets the needs of user (for example, content designers or developers)
-- complies with any design requirement (for example, GOV.UK Design System)
+- complies with any design requirement (for example, GOV.UK Design System, multi-language support)
 - uses an open standard for form definition and ownership
 - can handle your form logic needs (for example, branching, looping, skipping, one to many relations)
 - integrates with your backend systems easily
@@ -82,4 +83,8 @@ Form builders should allow teams to address the following user needs with specif
   **Component:** A Submitter application can process data submitted when a form is completed. This data will need to conform with the information asset classification (with any handling caveats) and any GDPR and DPIA considerations.
 
 
-### Example implementation
+### Case studies
+
+- [MoJ form builder](/x-gov-form-community/form-terminology/example-MOJ)
+
+- [Cross Government Form Builder](/x-gov-form-community/form-terminology/example-xgov)
