@@ -1,7 +1,8 @@
 ---
 title: Things to consider on form builders
 last_modified_date: 2021-04-29
-parent: form-terminology
+parent: Form Terminology
+nav_order: 2
 ---
 
 ### Things to consider when developing or buying a form builder

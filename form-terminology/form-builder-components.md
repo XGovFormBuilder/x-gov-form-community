@@ -1,7 +1,8 @@
 ---
 title: Overview of form builders' components
 last_modified_date: 2021-04-29
-parent: form-terminology
+parent: Form Terminology
+nav_order: 1
 ---
 
 ### About this page

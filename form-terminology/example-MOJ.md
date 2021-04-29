@@ -1,7 +1,6 @@
 ---
 title: Case study - MoJ form builder
 last_modified_date: 2021-04-29
-parent: form-terminology
 ---
 
 The MOJ form builder is made using the following components.

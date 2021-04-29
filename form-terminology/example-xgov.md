@@ -1,7 +1,6 @@
 ---
 title: Case studies - Cross government form builder
 last_modified_date: 2021-04-29
-parent: form-terminology
 ---
 The cross government form builder uses the following components:-
 
