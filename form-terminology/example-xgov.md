@@ -1,6 +1,7 @@
 ---
-title: Case studies - Cross government form builder
+title: Case study - Cross government form builder
 last_modified_date: 2021-04-29
+nav_exclude: true
 ---
 The cross government form builder uses the following components:-
 
