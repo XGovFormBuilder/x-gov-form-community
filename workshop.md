@@ -5,35 +5,17 @@ nav_order: 3
 ## Workshop 3
 Date: 30/04/2021
 
-### Agenda
+**Lightning talks and workshops:**
 
-10:00am Introduction and community standup
-Introduction session by Venus Bailey from Cabinet Office
+[Venus Bailey - A year of forming the community](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20210430/3rd_workshop_intro.pdf)
 
-**10:10am Lightning talk: DWP CASA form builder**
+[James Gauld - DWP CASA form builder](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20210430/casa-form-builder.pdf)
 
-Lightning talk by James Gauld, Lead Software Engineer, on the DWP CASA form builder.
+[Irina Pencheva - Tech stream workshops presentation](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20210430/Tech_stream.pdf) and form builders terminologies feedback workshop with EasyRetro board
 
-**10:30am Tech Stream: Form building - how do we approach it in a consistent way?**
+[Cathy Dutton - Minimum viable design presentation](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20210430/Design_workshop.pdf)/ [Blog post](https://cathydutton.co.uk/posts/minimum-viable-form-design/)
 
-Talk and workshop session by Irina Pencheva from Ministry of Justice Forms
-
-*Are we all talking about the same things and sharing best practices or reusable components? An attempt to come up with common user needs, form concepts and technology terms for form building products. This session will present what we’ve done so far and is an opportunity for the community to give feedback and get more involved.*
-
-**11:00am  Design stream: How ‘well-designed’ do forms really need to be?**
-
-Talk by Cathy Dutton from the Department for the Environment, Food and Rural Affairs
-
-*What is the minimum amount of design a form needs?*
-
-**11:20am Value proposition stream: What problems are we actually solving?**
-
-Talk and workshop session by Harry Vos from the Government Digital Service
-
-*Yes there’s now lots of forms builder products in government. Are we trying to solve the same problems, or are we trying to solve different problems?*
-
-**11:45pm Workshop conclusion**
-
+Harry Vos - Value preposition workshop with EasyRetro board
 
 
 ----
@@ -46,11 +28,11 @@ Theme: Form design
 
 [Caroline Jarrett - Let's have a lovely chat about forms](https://www.effortmark.co.uk/a-chat-about-forms-and-form-builders-xgov/){:target="_blank" rel="noopener noreferrer"}
 
-[Phil Cogger - Showing content design thinking quicker using MOJ Online](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/moj.pdf){:target="_blank" rel="noopener noreferrer"}
+[Phil Cogger - Showing content design thinking quicker using MOJ Online](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20201002/moj.pdf){:target="_blank" rel="noopener noreferrer"}
 
-[Chris Fryer - Forms in a formless place](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/cqc.pdf){:target="_blank" rel="noopener noreferrer"}
+[Chris Fryer - Forms in a formless place](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20201002/cqc.pdf){:target="_blank" rel="noopener noreferrer"}
 
-[Jorden Stewart - The Author Tool: Covid-19 and rapid response](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20121002/ONS.pdf){:target="_blank" rel="noopener noreferrer"}
+[Jorden Stewart - The Author Tool: Covid-19 and rapid response](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20201002/ONS.pdf){:target="_blank" rel="noopener noreferrer"}
 
 [Lean coffee discussion session](https://easyretro.io/publicboard/iHWefZJujXPkgLPVbXdgrUmpuBg2/e6dc7140-bf66-44e8-a0f0-05547fb9ffcd)
 
