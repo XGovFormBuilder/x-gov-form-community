@@ -13,7 +13,7 @@ Date: 30/04/2021
 
 [Irina Pencheva - Tech stream workshops presentation](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20210430/Tech_stream.pdf) and form builders terminologies feedback workshop with EasyRetro board
 
-[Cathy Dutton - Minimum viable design presentation](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20210430/Design_workshop.pdf)/ [Blog post](https://cathydutton.co.uk/posts/minimum-viable-form-design/)
+[Cathy Dutton - Minimum viable design presentation](https://github.com/XGovFormBuilder/x-gov-form-community/blob/master/workshops/20210430/Design_workstream.pdf)/ [Blog post](https://cathydutton.co.uk/posts/minimum-viable-form-design/)
 
 Harry Vos - Value preposition workshop with EasyRetro board
 
