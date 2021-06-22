@@ -24,3 +24,5 @@ This is a nice short update. My talk from #ServicesWeek covers most of what we'v
 - along with other community leads, started planning the next x-gov forms community workshop which is happening on Friday 30 April 2021
 
 [<- Previous update](/x-gov-form-community/2021-GDS-discovery/sprint-3)
+
+[Next update ->](/x-gov-form-community/2021-GDS-discovery/2021-06-21-strategy)
