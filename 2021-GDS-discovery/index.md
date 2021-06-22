@@ -47,3 +47,5 @@ The team is publishing short updates here on what they learn. They hope working 
 [Sprint 3: which problems should we solve?](/x-gov-form-community/2021-GDS-discovery/sprint-3)
 
 [Sprint 4: why most government forms are still PDFs](/x-gov-form-community/2021-GDS-discovery/sprint-4)
+
+[Our team's strategy](/x-gov-form-community/2021-GDS-discovery/2021-06-21-strategy)
