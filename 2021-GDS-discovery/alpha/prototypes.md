@@ -1,12 +1,26 @@
 ---
 title: Alpha Prototypes
-last_modified_date: 2021-01-15
+last_modified_date: 2021-09-08
 parent: 2021 GDS Discovery
 nav_exclude: true
 ---
 
 # Alpha Prototypes
+## Sprint 2
+### Hypothetical product page
+[Figma](https://www.figma.com/proto/fJRb7y9NQ3LyJPvJgpRac8/Product-Pages?node-id=5%3A863&scaling=min-zoom&page-id=5%3A7&starting-point-node-id=5%3A863)
 
+
+This prototype was presented to senior technology decision makers in different departments to test whether they would be willing to pay for a form builder and explore what functionality they would expect at different price points.
+
+The prototype is a mocked-up product page for a hypothetical form building product.
+
+Findings:
+- A form builder could be cost-effective, if it is perceived to be good value for money.
+- Senior technology decision-makers thought the following features represented value for money:
+  - Strong back end processes (incl. Data processing, storage and security)
+  - API integration
+  - Good support systems
 
 ## Adding prototypes to this list
 Prototypes should be added to this list when they are first shown to users.
