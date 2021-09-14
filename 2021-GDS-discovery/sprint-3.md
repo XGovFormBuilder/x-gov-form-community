@@ -53,7 +53,7 @@ If we succeeded in changing publisher behaviour, and problems in local governmen
 
 ## What our first experiment might look like
 
-![Now: 1. Legislation changes 2. Policy tell web team to publish new PDF form 3. Web team prioritise high volume forms, making accessibility an issue for low volume forms 4. Inaccessible PDF gets published. Next: 1. Web team warned before publishing a PDF. Prompt to build a form. 2. Web team build an HTML form, directing responses to email. 3. New form is live on GOV.UK. (Possible 4.) Email to web team if form is projected to have more than 1,750 transactions per year.](https://github.com/XGovFormBuilder/x-gov-form-community/raw/master/img/forms-sketch-optimised.jpg "forms-sketch-optimised")
+![Now: 1. Legislation changes 2. Policy tell web team to publish new PDF form 3. Web team prioritise high volume forms, making accessibility an issue for low volume forms 4. Inaccessible PDF gets published. Next: 1. Web team warned before publishing a PDF. Prompt to build a form. 2. Web team build an HTML form, directing responses to email. 3. New form is live on GOV.UK. (Possible 4.) Email to web team if form is projected to have more than 1,750 transactions per year.](https://raw.githubusercontent.com/XGovFormBuilder/x-gov-form-community/main/img/forms-sketch-optimised.jpg "forms-sketch-optimised")
 
 ## Finding more public sector form building teams
 
