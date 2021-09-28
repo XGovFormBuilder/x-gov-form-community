@@ -12,6 +12,7 @@ nav_order: 4
 - [GOV.UK Frontend WTForms, by HM Land Registry](https://govuk-frontend-wtf.herokuapp.com/)
 - [GOV.UK Design System Form Builder for Rails, by DfE Digital](https://github.com/DFE-Digital/govuk_design_system_formbuilder)
 - [DWP CASA](https://github.com/dwp/govuk-casa)
+- [DWP Digiman](https://github.com/dwp/digiman)
 - [HMRC gform](https://github.com/hmrc/gform)
 - [Home Office Forms](https://github.com/UKHomeOfficeForms)
 - [ONS Digital Author tool](https://github.com/ONSdigital/eq-author-app)
