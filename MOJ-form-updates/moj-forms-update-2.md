@@ -1,10 +1,10 @@
 ---
 title: MOJ Forms cross-government update 2 - April 2021
 last_modified_date: 2021-04-19
-parent: MOJ form updates
+parent: MoJ Forms updates
 ---
 
-# MOJ Forms cross-government update 1 - April 2021
+# MOJ Forms cross-government update 2 - April 2021
 
 Written by Irina Pencheva and Matt Tei
 
