@@ -13,3 +13,5 @@ MoJ's updates on the [MoJ Forms](https://moj-forms.service.justice.gov.uk/).
 [Update Apr 2021 ](/x-gov-form-community/MOJ-form-updates/moj-forms-update-2)
 
 [Update Sept 2021 ](/x-gov-form-community/MOJ-form-updates/moj-forms-update-3)
+
+[Update Jan 2022 ](/x-gov-form-community/MOJ-form-updates/moj-forms-update-3)
