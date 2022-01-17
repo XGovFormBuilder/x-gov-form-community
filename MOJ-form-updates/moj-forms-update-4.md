@@ -14,9 +14,9 @@ MoJ Forms target users are different: they are digital professionals. They will 
 
 
 
-## MoJ Forms and the Design System
+## MoJ Forms and the GOV.UK Design System
 
-Our users and their needs being different from the general public does not mean we need to start from scratch, far from it. Most of the Design system components are still appropriate. Yet some of the interactions in our tool were slower and more confusing than they had to be, so we used new components that are not in the Design system to improve them.
+Our users and their needs being different from the general public does not mean we need to start from scratch, far from it. Most of the Design System components are still appropriate. Yet some of the interactions in our tool were slower and more confusing than they had to be, so we used new components that are not in the Design System to improve them.
 
 MoJ Forms is a web application, not a website. While the underlying technology is the same, the level of interactivity required is not, and the experience needs to be closer to a typical computer application than a series of pages to browse through. So it is no surprise that some of the components we have added are classics of software design: inline editing, contextual menus and modal dialogues.
 
