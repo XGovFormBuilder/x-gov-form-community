@@ -1,3 +1,10 @@
+---
+title: MoJ Forms cross-government update 4 - January 2022
+last_modified_date: 2022-01-17
+parent: MoJ Forms updates
+---
+
+
 # Going beyond the GOV.UK Design System for MoJ Forms professional users
 
 We’re reworking our classic Form Builder into an online application called [MoJ Forms](https://moj-forms.service.justice.gov.uk/). To accomplish its mission of creating government forms easily and quickly, we realised we needed to not only use the [GOV.UK Design System](https://design-system.service.gov.uk), but also to go beyond it.
