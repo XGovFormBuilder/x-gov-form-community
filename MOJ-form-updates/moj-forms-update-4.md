@@ -25,7 +25,10 @@ When we took it upon us to modernise our legacy Form Builder application, we rea
 
 For MoJ Forms, we wanted the interactions to be much faster, and to avoid the confusion created by losing your sense of place by navigating back and forth. We’ve used a simple native html attribute ([“contenteditable”](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)) to allow the copy of each part of the form to be edited, simply by clicking it. As the styling is always present, it’s What you see is what you get, and there is no need to imagine how the form will look.
 
+
 ![Screen recording showing editing copy inline in MoJ Form](https://raw.githubusercontent.com/XGovFormBuilder/x-gov-form-community/main/img/MoJF_post4_inlineEdit.gif)
+
+
 
 ### Hierarchical menus
 Navigating through pages and subpages was also the way to select a template for adding a new page in Form Builder. These are using a standard pattern, simple radio lists, but are very cumbersome. 
