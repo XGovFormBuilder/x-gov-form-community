@@ -1,11 +1,11 @@
 # Going beyond the GOV.UK Design System for MoJ Forms professional users
 
-We’re reworking our classic Form Builder into an online application called [MoJ Forms] (https://moj-forms.service.justice.gov.uk/). To accomplish its mission of creating government forms easily and quickly, we realised we needed to not only use the [GOV.UK Design System](https://design-system.service.gov.uk), but also to go beyond it.
+We’re reworking our classic Form Builder into an online application called [MoJ Forms](https://moj-forms.service.justice.gov.uk/). To accomplish its mission of creating government forms easily and quickly, we realised we needed to not only use the [GOV.UK Design System](https://design-system.service.gov.uk), but also to go beyond it.
 
 ## Strength and limitation of the GOV.UK Design System
 
 When designing user interfaces for the UK government, we're privileged to be able to rely on the GOV.UK Design System. Built collaboratively over the years from design and research work done across government, its usability and accessibility is world leading (and often reused including by the [NHS](https://service-manual.nhs.uk/design-system/components)).
-Together with design principles from the [Service Manual] (https://www.gov.uk/service-manual/design) it enables teams to release well designed services faster.
+Together with design principles from the [Service Manual](https://www.gov.uk/service-manual/design) it enables teams to release well designed services faster.
 
 Yet no design system will ever "solve" all design, for all people or use cases. As with any design, the design system is itself a solution to a specific problem. It aims to help create services that anyone can use. ["This is for everyone"](https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone) is a design principle: "We’re designing for the whole country, not just the ones who are used to using the web". Most government services are also used briefly and rarely, so everything needs to be easy to do on the first attempt.  
 As such, effectiveness (getting as many people as possible to complete their task) is [prioritised over efficiency](https://userresearch.blog.gov.uk/2017/04/18/why-we-care-more-about-effectiveness-than-efficiency-or-satisfaction/) (how fast they do it). This is absolutely the right trade-off for public services.
@@ -18,11 +18,10 @@ MoJ Forms target users are different: they are digital professionals. They will 
 
 Our users and their needs being different from the general public does not mean we need to start from scratch, far from it. Most of the Design system components are still appropriate. Yet some of the interactions in our tool were slower and more confusing than they had to be, so we used new components that are not in the Design system to improve them.
 
-
 MoJ Forms is a web application, not a website. While the underlying technology is the same, the level of interactivity required is not, and the experience needs to be closer to a typical computer application than a series of pages to browse through. So it is no surprise that some of the components we have added are classics of software design: inline editing, contextual menus and modal dialogues.
 
 ### Inline editing
-When we took it upon us to modernise our legacy Form Builder application, we realised it followed some of the GOV.UK design principles too strictly. For example, it took ["one thing per page"](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page) too literally, and made you navigate to another page (and back) every time you wanted to edit anything in your form. While it was using the simplest of design patterns (a link to a new page), the interaction was slow and disorientating.\
+When we took it upon us to modernise our legacy Form Builder application, we realised it followed some of the GOV.UK design principles too strictly. For example, it took ["one thing per page"](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page) too literally, and made you navigate to another page (and back) every time you wanted to edit anything in your form. While it was using the simplest of design patterns (a link to a new page), the interaction was slow and disorientating.
 
 For MoJ Forms, we wanted the interactions to be much faster, and to avoid the confusion created by losing your sense of place by navigating back and forth. We’ve used a simple native html attribute ([“contenteditable”](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)) to allow the copy of each part of the form to be edited, simply by clicking it. As the styling is always present, it’s What you see is what you get, and there is no need to imagine how the form will look.
 
@@ -49,10 +48,10 @@ The core tenant of User Centered Design is that your design should be appropriat
 Many of our MoJ colleagues also work on designing software for colleagues. These often involve case management systems and can be anything from managing transfer of people between prisons to reviewing power of attorney applications. Just like MoJ Forms, these systems need to be used by professionals, repeatedly and for long periods of time, so they also need to go beyond the GOV.UK Design System.
 
 At MoJ we've got an internal Professional Action group working on coordinating our efforts  toward standard components and a [MoJ pattern library](https://design-patterns.service.justice.gov.uk).
-We also know many other government departments have similar needs, so we're reaching out to them too for example via the [Designing Caseworking Systems Meetup] (https://www.eventbrite.co.uk/e/designing-caseworking-systems-meetup-4-tickets-219770348027?). 
+We also know many other government departments have similar needs, so we're reaching out to them too for example via the [Designing Caseworking Systems Meetup](https://www.eventbrite.co.uk/e/designing-caseworking-systems-meetup-4-tickets-219770348027?). 
 
 Just like what was done for citizen facing services, there is a need for a coordinated way to join our effort across government to maximise the results and ensure we avoid wasting time reimplementing the same things over and over.
 
-Meanwhile you can learn more about our new [MoJ Forms product] (https://moj-forms.service.justice.gov.uk/), or let us know in the comments of any similar patterns you have created for your own work.
+Meanwhile you can learn more about our new [MoJ Forms product](https://moj-forms.service.justice.gov.uk/), or let us know in the comments of any similar patterns you have created for your own work.
 
 
