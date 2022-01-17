@@ -23,15 +23,26 @@ MoJ Forms is a web application, not a website. While the underlying technology i
 ### Inline editing
 When we took it upon us to modernise our legacy Form Builder application, we realised it followed some of the GOV.UK design principles too strictly. For example, it took ["one thing per page"](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page) too literally, and made you navigate to another page (and back) every time you wanted to edit anything in your form. While it was using the simplest of design patterns (a link to a new page), the interaction was slow and disorientating.
 
+![Picking a page template using new page in Form Builder](/img/MoJF_post4_FB_addPage.gif)
+
+
+
+
 For MoJ Forms, we wanted the interactions to be much faster, and to avoid the confusion created by losing your sense of place by navigating back and forth. We’ve used a simple native html attribute ([“contenteditable”](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)) to allow the copy of each part of the form to be edited, simply by clicking it. As the styling is always present, it’s What you see is what you get, and there is no need to imagine how the form will look.
+
 
 
 ### Hierarchical menus
 Navigating through pages and subpages was also the way to select a template for adding a new page in Form Builder. These are using a standard pattern, simple radio lists, but are very cumbersome. Software design has [long established](https://en.wikipedia.org/wiki/Context_menu#History) a pattern to pick an item from lists: hierarchical menus.
 These menus allow the user to quickly pick an option in lists and sublists, without needing to reorient themselves. So when adding a new page, it's easy to click on the "add page" button and pick "Single question page" in the menu, then "radio buttons" in the submenu. This is much faster and easier than having to navigate to a full new page to see each level of options.
 
+![Picking a page template using menus in Moj Forms](/img/MoJF_post4_addPage.gif)
+
+
 ### Modal dialogues
 In some cases what we need isn’t just picking an option from a list, but answering one or several questions via a very short form. Modal dialogues allow us to do just that quickly. They're great at capturing a short amount of information without losing your place. 
+
+![Using a Modal Dialogue in MoJ Form](/img/MoJF_post4_DeleteModal.gif)
 
 ### Research
 
