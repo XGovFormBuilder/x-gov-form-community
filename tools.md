@@ -8,7 +8,7 @@ nav_order: 4
 ### Cross Government Form Tools
 
 - [XGov Digital Form Builder](https://github.com/XGovFormBuilder/digital-form-builder)
-- [MOJ Forms product page](https://formbuilder-product-page.apps.live-1.cloud-platform.service.justice.gov.uk/) and [Legacy MOJ Form Builder](https://github.com/ministryofjustice/form-builder)
+- [MOJ Forms product page](https://moj-forms.service.justice.gov.uk/) and [Legacy MOJ Form Builder](https://github.com/ministryofjustice/form-builder)
 - [GOV.UK Frontend WTForms, by HM Land Registry](https://govuk-frontend-wtf.herokuapp.com/)
 - [GOV.UK Design System Form Builder for Rails, by DfE Digital](https://github.com/DFE-Digital/govuk_design_system_formbuilder)
 - [DWP CASA](https://github.com/dwp/govuk-casa)
